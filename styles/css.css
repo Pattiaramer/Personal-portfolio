@@ -2,22 +2,37 @@
 font-family: 'Quicksand', sans-serif;
 font-family: 'Roboto', sans-serif;*/
 
+:root{
+  --heading-font-family: font-family: 'Roboto', sans-serif; 
+  --body-font-family: font-family: 'Quicksand', sans-serif;
+  --special-font-heading: font-family: 'Bebas Neue';
+}
+
+body{
+  background-color: #FBFFF9;
+}
+
 h1 {
-  font-family: "Roboto", sans-serif;
+  font-family: var(--heading-font-family);
   font-weight: 700;
-  color: #4e4f4e;
+  font-size: 50px;
+  color: #000000;
 }
 
 h3 {
-  font-family: "Quicksand", sans-serif;
+  font-family: var(--body-font-family);
   font-weight: 400;
+  font-size: 22px;
 }
 
 h2 {
-  font-family: "Bebas Neue", cursive;
+  font-family: var(--special-font-heading);
+  font-size: 33px;
+  color:#95D071;
 }
 
 p {
   font-family: "Quicksand", sans-serif;
   font-weight: 400;
+  font-size: 15px;
 }
