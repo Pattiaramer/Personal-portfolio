@@ -24,24 +24,28 @@ h1 {
   font-weight: 700;
   font-size: 50px;
   color: #000000;
+  margin-left: 7%;
 }
 
 h3 {
   font-family: var(--body-font-family);
   font-weight: 400;
   font-size: 22px;
+   margin-left: 7%;
 }
 
 h2 {
   font-family: var(--special-font-heading);
   font-size: 33px;
   color:#95D071;
+   margin-left: 7%;
 }
 
 p {
   font-family: "Quicksand", sans-serif;
   font-weight: 400;
   font-size: 15px;
+  
 }
 
 ul{
@@ -64,6 +68,7 @@ ul{
 .text-padding{
   padding-right: 55%;
   margin-top: 15px;
+   margin-left: 7%;
 }
 
 .socials-list-link{
