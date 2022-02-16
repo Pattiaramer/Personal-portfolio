@@ -8,8 +8,15 @@ font-family: 'Roboto', sans-serif;*/
   --special-font-heading: font-family: 'Bebas Neue';
 }
 
+.dots{
+  background-image: url('/img-icons/dots.png');
+  background-repeat: no-repeat;
+  position: relative;
+  background-color: #F2FBF3;
+}
+
 body{
-  background-color: #FBFFF9;
+  background-color: #F2FBF3;
 }
 
 h1 {
@@ -36,3 +43,32 @@ p {
   font-weight: 400;
   font-size: 15px;
 }
+
+ul{
+  list-style: none;
+}
+
+.icon-padding{
+  padding-left: 4px;
+  padding-bottom: 2px;
+  
+}
+.heading{
+  margin: 30px;
+  margin-top: 8%;
+  margin-left: 7%;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.text-padding{
+  padding-right: 55%;
+  margin-top: 15px;
+}
+
+.socials-list-link{
+  margin-left: 6%;
+ 
+ 
+}
+
