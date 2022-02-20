@@ -22,7 +22,7 @@ body{
 h1 {
   font-family: var(--heading-font-family);
   font-weight: 700;
-  font-size: 50px;
+  font-size: 60px;
   color: #000000;
   margin-left: 7%;
 }
@@ -36,7 +36,7 @@ h3 {
 
 h2 {
   font-family: var(--special-font-heading);
-  font-size: 33px;
+  font-size: 43px;
   color:#95D071;
    margin-left: 7%;
 }
@@ -44,7 +44,7 @@ h2 {
 p {
   font-family: "Quicksand", sans-serif;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 20px;
   
 }
 
