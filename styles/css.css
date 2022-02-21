@@ -72,8 +72,9 @@ ul{
 }
 
 .socials-list-link{
-  margin-left: 6%;
- 
+  position: fixed;
+  margin-left: 4%;
+  color: #95D071;
  
 }
 
