@@ -9,36 +9,39 @@ font-family: 'Roboto', sans-serif;*/
 }
 
 .dots{
-  background-image: url('/img-icons/dots.png');
+  background-image: url('/img-icons/home-page.png');
   background-repeat: no-repeat;
-  position: relative;
   background-color: #F2FBF3;
+  
+
+
 }
 
 body{
   background-color: #F2FBF3;
+  margin-left: 7%;
 }
 
 h1 {
   font-family: var(--heading-font-family);
   font-weight: 700;
-  font-size: 60px;
+  font-size: 80px;
   color: #000000;
-  margin-left: 7%;
+  
 }
 
 h3 {
   font-family: var(--body-font-family);
   font-weight: 400;
-  font-size: 22px;
-   margin-left: 7%;
+  font-size: 32px;
+  
 }
 
 h2 {
   font-family: var(--special-font-heading);
-  font-size: 43px;
+  font-size: 53px;
   color:#95D071;
-   margin-left: 7%;
+  
 }
 
 p {
@@ -52,15 +55,14 @@ ul{
   list-style: none;
 }
 
-.icon-padding{
-  padding-left: 4px;
-  padding-bottom: 2px;
-  
-}
+/*.intro{
+  margin-bottom: 25%;
+}*/
+
+
 .heading{
   margin: 30px;
-  margin-top: 8%;
-  margin-left: 7%;
+  margin-top: 20%;
   padding: 20px;
   margin-bottom: 50px;
 }
@@ -68,19 +70,11 @@ ul{
 .text-padding{
   padding-right: 55%;
   margin-top: 15px;
-   margin-left: 7%;
-}
-
-.socials-list-link{
-  position: fixed;
-  margin-left: 4%;
-  color: #95D071;
- 
-}
-
-.proflio-picture{
   
 }
+
+
+
 
 
 
