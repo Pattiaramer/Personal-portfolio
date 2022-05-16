@@ -20,4 +20,11 @@ p {
   margin: auto;
 }
 .gallary-btn {
+  background: red;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 7px 15px;
+  margin: auto 43%;
 }
