@@ -3,8 +3,10 @@ font-family: 'Poppins', sans-serif;*/
 
 h1 {
   font-family: "Playfair Display", serif;
+  font-weight: bold;
+  background-color: aquamarine;
 }
 
-h2 {
+p {
   font-family: "Poppins", sans-serif;
 }
