@@ -4,9 +4,10 @@ font-family: 'Poppins', sans-serif;*/
 h1 {
   font-family: "Playfair Display", serif;
   font-weight: bold;
-  background-color: aquamarine;
+  color: #7ea04d;
 }
 
 p {
   font-family: "Poppins", sans-serif;
+  color: #335d2d;
 }
