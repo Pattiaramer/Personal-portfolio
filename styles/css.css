@@ -25,7 +25,7 @@ h2 {
 p {
   font-weight: normal;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 30px;
 }
 
 .hero {
@@ -75,4 +75,15 @@ body .btn-branding-outline {
 
 body .btn-branding-outline:hover {
   color: #610c63;
+}
+
+.project-description {
+  padding: 120px 60px;
+}
+
+@media (max-width: 960px) {
+  .project-description {
+    padding: 0;
+    text-align: center;
+  }
 }
